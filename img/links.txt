@@ -1,3 +1,3 @@
-Notes: Google Bildersuche https://th.bing.com/th/id/OIP.Q82MpUvqjSeZwxtdQUfPgQHaF7?w=238&h=190&c=7&r=0&o=5&pid=1.7
+Notes: Google Bildersuche https://tse3.mm.bing.net/th/id/OIP.Ire7ajhVPs7HbfcSoHXjsgHaGO?pid=ImgDet&rs=1
 Logo: Stable Diffusion Bildgenerator
 Basis-Netzwerk: https://th.bing.com/th?q=Icon+Neuronales+Netz&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=de-DE&cc=DE&setlang=de&adlt=moderate&t=1&mw=247

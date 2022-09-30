@@ -42,9 +42,10 @@ body {
         width: 10%;
         height: 30px;
         color: #000000;
-        font-family: Futura Bk BT;
+        font-family: terminal, monospace;
         text-align: center;
         vertical-align: top;
+        border-radius: 6px;
 }
 #navigation button:hover {
       background-color: #d3d0ab;
@@ -80,6 +81,9 @@ body {
 #content a {
     text-decoration: none;
     color: #00ff00;
+}
+#content img {
+    border-radius: 36px;
 }
 #sidebar{
     margin-top: 15px;
