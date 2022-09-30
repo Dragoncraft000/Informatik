@@ -1,0 +1,3 @@
+Die Darstellung des Textes in der Sidebar kann je nach Bildschirmgröße etwas merkwürdig aussehen, in dem Ordner Screnshots finden sie das Design, so wie es gewollt war.
+
+Ich habe versucht, mit dem Design der Website, einen alten Computer darzustellen, die Sidebar ist ein Notizzettel, der an den Computer geklebt ist.
